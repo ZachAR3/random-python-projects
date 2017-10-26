@@ -1,0 +1,1 @@
+welcome thank you for checking out my rock paper scissors game in tkinter to use this game add all the images into your pycharm project and the .py files if you put the images somewhere else you will have to change the directory sincerly zach.
